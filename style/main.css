@@ -1,0 +1,146 @@
+.font_hd{
+	font-size: 22px;
+}
+.blue_font{
+	color: #3D58A6;
+}
+.red_font{
+	color: #EE4036px;
+}
+.grey_font{
+	color: #333333px;
+}
+.inline{
+	    display: inline-block;
+}
+.left_margin{
+	margin-left: 38px;
+}
+.logo_html{
+	width: 100.18px;
+	height: 30.57px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.main_menu{
+	margin-left: 49.81px;
+}
+.news{
+	margin-left: 22px;
+}
+.contact{
+	margin-left: 38.99px;
+}
+li{
+	margin-top: 36.76px;
+}
+.img{
+	width: 928px;
+	height: 594px;
+	margin-top: 26.43px;
+}
+h3{
+	color: #000000;
+	margin-top: 34.22px;
+	font-weight: normal;
+}
+.leftblock{
+	background-color: #F2F2F2;
+	width: 570px;
+	height: 225px;
+	vertical-align: top;
+}
+.lefthdtxt{
+	margin-left: 20.77px;
+	margin-top: 11.05px;
+}
+.lefttxt{
+	vertical-align: middle;
+	font-size: 20px;
+	width: 355px;
+	margin-left: 65.42px;
+}
+.finger{
+	margin-left: 36.78px;
+	vertical-align: middle;
+	width: 102.87px;
+	height: 145.5px;
+}
+.fb{
+	margin-left: 35.53px;
+	margin-top: 68.29px;
+	width: 14px;
+	height: 30px;
+}
+.ln{
+	margin-top: 32.25px;
+	margin-left: 35.6px;
+}
+.rightblock{
+	background-color: #F2F2F2;
+	width: 570px;
+	height: 225px;
+    margin-left: 89px;
+    vertical-align: top;
+/*    margin-left: 697px;
+    margin-top: 86px;*/
+}
+.righthdtxt{
+	margin-left: 20.77px;
+	margin-top: 11.05px;
+}
+.righttxt{
+	vertical-align: middle;
+	font-size: 20px;
+	width: 355px;
+	margin-left: 65.42px;
+}
+.mob{
+	margin-left: 39.97px;
+	vertical-align: middle;
+	width: 84.81px;
+	height: 127.51px;
+}
+.ytb{
+	margin-top: 68.29px;
+	margin-left: 30.19px;
+	width: 24.81px;
+}
+.box{
+	vertical-align: baseline;
+}
+.bckgrnd{
+	background-color: #E6E6E6;
+	width: 1366px;
+	height: 570px;
+	margin-top: 82px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+h5{
+	font-weight: bold;
+	font-size: 20px;
+}
+.info{
+	width: 250px;
+	height: 92px;
+	margin-left: 43.99px;
+	margin-top: 52px;
+}
+.contact_font{
+	font-size: 16px;
+	color: #000000;
+}
+span{
+	color: #808080;
+}
+.map {
+	display: inline-block;
+	margin: 30px 30px;
+	vertical-align: middle;
+}
+iframe {
+	border:0px;
+	width: 600px; 
+	height: 450px; 
+}
